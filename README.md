@@ -126,20 +126,20 @@ I repeated this process until the car is able to drive around the track.
 
 The final model architecture consisted of a convolution neural network with the following layers:
 
-1- Conv layer 8x8 @ 16
-2- Subsampling 4x4
-3- ELU
-4- Conv layer 5x5 @ 32
-5- Subsampling 2x2
-6- ELU
-7- Conv layer 5x5 @ 64
-8- Subsampling 2x2
-9- ELU 
-10- Flatten
-11- ELU
-12- 512 Dense
-13- ELU
-14- 1 Dense
+1. Conv layer 8x8 @ 16
+2. Subsampling 4x4
+3. ELU
+4. Conv layer 5x5 @ 32
+5. Subsampling 2x2
+6. ELU
+7. Conv layer 5x5 @ 64
+8. Subsampling 2x2
+9. ELU 
+10. Flatten
+11. ELU
+12. 512 Dense
+13. ELU
+14. 1 Dense
 
 
 ####3. Creation of the Training Set & Training Process

@@ -207,8 +207,13 @@ The validation loss incremently decreased after each epoch until it reached the 
 ---
 ### V Simulation
 
+<<<<<<< HEAD
 
 
 The car comfortably drives itself around the first track safely on the asphalt and goes around soft and sharp turns without touching edges or going to other unsafe surfaces.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/374smLAMcjc" frameborder="0" allowfullscreen></iframe>
+=======
+The car comfortably drives itself around the first track safely on the asphalt and goes around soft and sharp turns without touching edges or going to other unsafe surfaces.
+
+>>>>>>> 5b5d3cc3dfc6b21d0fbba3b018de40cac35d59c9
